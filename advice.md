@@ -48,7 +48,7 @@ When preparing to present:
 4. Make sure the machine is set not to sleep
 5. Set your display resolution to 1080p (1920x1080) or lower (DisplayMenu is
    useful for this; see [tools][tools.md])
-6. Clean your desktop! (see [toggle-desk-icons.sh](toggle-desk.icons.sh) to
+6. Clean your desktop! (see [toggle-desk-icons.sh](toggle-desk-icons.sh) to
    toggle display of desktop icons)
 7. Turn off WiFi and Bluetooth unless they're required
 8. Make sure software updates are disabled/paused
