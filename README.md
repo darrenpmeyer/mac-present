@@ -22,5 +22,9 @@ use the same terms.
   [iTerm2 terminal](https://iterm2.com/) that uses a large text size and some
   other minor tweaks that make it good for demos
 
+- [toggle-desk-icons.sh](toggle-desk-icons.sh) -- a bash script that toggles
+  the display of icons on the desktop
+
 - [tools.md](tools.md) -- a list of links to 3rd-party tools useful for demos
   and presentations and related setup
+
