@@ -6,6 +6,21 @@ This file provides general advice I've collected over years of presenting, to
 help you make technical presentations and demos that go well. Some of this
 advice is macOS-specific, but much of it applies to any environment.
 
+<!--TOC-->
+
+- [Advice for smooth and readable demos and presentations](#advice-for-smooth-and-readable-demos-and-presentations)
+  - [Use a presentation-specific user account](#use-a-presentation-specific-user-account)
+    - [Make a Presenter user](#make-a-presenter-user)
+    - [Set up the Presenter user](#set-up-the-presenter-user)
+  - [Check everything before you present](#check-everything-before-you-present)
+  - [Record your demos](#record-your-demos)
+  - [Use demo scripts](#use-demo-scripts)
+    - [have prepared state checkpoints](#have-prepared-state-checkpoints)
+  - [Display things clearly](#display-things-clearly)
+  - [Slow down](#slow-down)
+
+<!--TOC-->
+
 ## Use a presentation-specific user account
 
 One of the more irritating and embarrassing things that can happen when
@@ -109,3 +124,44 @@ For example, if one step produces .json files that are fed into the next step,
 have known-good .json files in a handy folder; if something goes wrong, you
 can smoothly go to your prepared "checkpoint" and continue the demo with only
 a small disruption
+
+## Display things clearly
+
+(Some of this advice is repeated in other sections)
+
+- Turn off display of desktop items using
+  [toggle-desk-icons.sh](toggle-desk-icons.sh)
+- Keep your screen resolution low; 1080p or lower
+	* when projecting, match your resolution to one of the native resolutions
+	  on the projector or display your audience will see
+- Make everything _big_! Lowering resolution helps, but also:
+  	* increase your text sizes everywhere:
+  		+ Cmd-= (think "plus", but without shift) works on most apps
+  		+ Don't forget Preview, your browser, text editors, terminals
+  	* pay attention to the size of important elements in images
+  	* Accessibility->Display->Cursor and set your Cursor size larger
+  	* Accessibility->Zoom and set a screen-zoom shortcut/gesture
+  		+ Use Full Screen or Picture-in-Picture options for Zoom style
+- Avoid clutter
+	* The more that's on your screen, the harder it is to see any individual
+	  thing
+	* Increase the "whitespace" around text and other object
+	* Avoid overlapping windows, and keep "gutters" between windows
+
+## Slow down
+
+It's a lot harder to follow you if you're going fast.
+
+- Let people see commands/etc for a few seconds before you run them or move
+  away from them. It takes more time for people to read as an audience than
+  if they're doing it themselves. A good way to handle this is to display the
+  command, explain it briefly, then run it
+
+- Avoid lots of fast scrolling. People can't track code/text as well when
+  *someone else* is scrolling it
+
+- Don't "waggle" your mouse to highlight things; if you can't use a selection
+  (i.e. selecting text to highlight it), then move your mouse _smoothly_ over
+  or around what you're drawing attention to. The cursor pulls attention, so
+  moving it excessively will distract from what you're highlighting
+
