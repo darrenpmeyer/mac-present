@@ -28,3 +28,5 @@ use the same terms.
 - [tools.md](tools.md) -- a list of links to 3rd-party tools useful for demos
   and presentations and related setup
 
+- [advice.md](advice.md) -- some advice for setting up for presenting/demos
+

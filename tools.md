@@ -14,3 +14,7 @@ place of live demos
   extremely easy, allowing you to mark your favorites. Great way to set a
   specific resolution when making screen recordings or connecting to finicky
   video projectors
+
+- [Caffeine](https://intelliscapesolutions.com/apps/caffeine) (FREE) -- a 
+  menubar application that forces macOS to stay awake by constantly advertising
+  user activity
