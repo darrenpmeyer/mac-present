@@ -18,7 +18,7 @@ use the same terms.
 
 # Directory
 
-- [iTerm2-profile.json](iTerm2-profile.json) -- a terminal profile for the 
+- [iTerm2_profile.json](iTerm2_profile.json) -- a terminal profile for the 
   [iTerm2 terminal](https://iterm2.com/) that uses a large text size and some
   other minor tweaks that make it good for demos
 
