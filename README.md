@@ -20,7 +20,9 @@ use the same terms.
 
 - [iTerm2_profile.json](iTerm2_profile.json) -- a terminal profile for the 
   [iTerm2 terminal](https://iterm2.com/) that uses a large text size and some
-  other minor tweaks that make it good for demos
+  other minor tweaks that make it good for demos. **Note:** the working
+  directory is set to `/Users/proteus`; you'll want to change that to reflect
+  your home directory; you can do that in iTerm2's settings
 
 - [toggle-desk-icons.sh](toggle-desk-icons.sh) -- a bash script that toggles
   the display of icons on the desktop
