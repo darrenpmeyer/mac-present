@@ -46,7 +46,7 @@ making presentations.
    enabled
 3. Make desktop or Dock shortcuts to key applications
 4. Set things you'll always use to start at login so you can't forget
-5. If you're using [Caffeine](https://intelliscapesolutions.com/apps/caffeine)
+5. If you're using [KeepingYouAwake](https://keepingyouawake.app/)
    or any similar tool that keeps your Mac awake -- which is highly
    recommended! -- set it to start automatically and to go into its "stay
    awake" mode on startup
