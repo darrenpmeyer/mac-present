@@ -15,6 +15,6 @@ place of live demos
   specific resolution when making screen recordings or connecting to finicky
   video projectors
 
-- [Caffeine](https://intelliscapesolutions.com/apps/caffeine) (FREE) -- a 
-  menubar application that forces macOS to stay awake by constantly advertising
-  user activity
+- [KeepingYouAwake](https://keepingyouawake.app/) (FREE - MIT license) -- a menubar application
+  that provides a simple interface to macOS's `caffeinate` command, which can
+  prevent display sleep, inactivity locks, etc. for a set time
